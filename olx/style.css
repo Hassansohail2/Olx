@@ -1,0 +1,258 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    display: flex;
+    margin-top: 20px;
+}
+
+.line1imgcar {
+    background-color: lightgray;
+    width: 45px;
+    height: 45px;
+    text-align: center;
+    border-radius: 100px;
+    margin-left: 50px;
+    cursor: pointer;
+}
+
+.line1img {
+    cursor: pointer;
+}
+
+.line1para1 {
+    margin-top: 10px;
+    font-weight: bold;
+    margin-left: 6px;
+    cursor: pointer;
+}
+
+.line1imgproperty {
+    background-color: lightgray;
+    width: 45px;
+    height: 45px;
+    text-align: center;
+    border-radius: 100px;
+    margin-left: 50px;
+    cursor: pointer;
+}
+.line1para2 {
+    margin-top: 10px;
+    font-weight: bold;
+    margin-left: 6px;
+    cursor: pointer;
+}
+
+.line2select1 select {
+    padding: 10px;
+}
+
+.line2input input {
+    padding: 9px;
+    width: 800px;
+    margin-left: 20px;
+}
+
+.line2 {
+    display: flex;
+
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.icon1{
+    color: white;
+    background-color: black;
+    width: 50px;
+    height: 45px;
+    text-align: center;
+    padding-top: 12px;
+    font-size: 22px;
+  
+}
+.line2Para {
+    text-decoration: underline;
+    font-weight: bold;
+    cursor: pointer;
+    margin-left: 30px;
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+.line2button button {
+    background-color: white;
+    border-radius: 30px;
+    cursor: pointer;
+    padding: 4px;
+    width: 80px;
+    margin-left: 30px;
+    margin-top: 6px;
+    border: 3px solid skyblue;
+}
+.carousel{
+    margin-top: 30px;
+}
+.line3 li {
+    list-style-type: none;
+    margin-top: 10px;
+}
+
+.lineborder {
+    border-top: 1px solid lightgrey;
+}
+
+.line3 {
+    display: flex;
+    gap: 20px;
+}
+.line4{
+    margin-top: 40px;
+}
+.line5{
+    display: flex;
+    gap: 55px;
+    margin-top: 20px;
+}
+.line5 figcaption{
+    font-weight: bold;
+    text-align: center;
+}
+.line6{
+    display: flex;
+    gap: 55px;
+}
+.line6 figcaption{
+    font-weight: bold;
+    text-align: center;
+}
+.line7{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.line8{
+    display: flex;
+    gap: 25px;
+}
+.line9{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.line10{
+    display: flex;
+    gap: 25px;
+}
+.line11{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.line12{
+    display: flex;
+    gap: 25px;
+}
+.line13{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.line14{
+    display: flex;
+    gap: 25px;
+}
+.footer{
+    background-color: #f7f8f9;
+    margin-top: 100px;
+    position: relative;
+    height: 200px;
+    border-bottom: 1px solid lightgray;
+}
+.footerimg{
+    margin-left: 80px;
+}
+.footerheading1{
+    position: absolute;
+    left: 550px;
+    top: 30px;
+}
+.footerpara1{
+    position: absolute;
+    top: 90px;
+    left: 550px;
+    font-size: 20px;
+}
+.footerpara2{
+    position: absolute;
+    top: 120px;
+    left: 550px;
+    font-size: 20px;
+}
+.lineborder1{
+    border-left: 2px solid #d8dee0;
+    height: 130px;
+    position: absolute;
+    top: 35px;
+    left: 970px;
+}
+.footerpara3{
+    font-weight: 700;
+    position: absolute;
+    top: 60px;
+    left: 1000px;
+}
+.footericon1{
+    position: absolute;
+    top: 100px;
+    left: 1000px;
+}
+.footericon2{
+    position: absolute;
+    top: 100px;
+    left: 1140px;
+}
+.footericon3{
+    position: absolute;
+    top: 100px;
+    left: 1280px;
+}
+.image{
+    padding-top: 30px;
+}
+.footerpart2{
+    background-color: #ebeeef;
+    display: flex;
+    list-style-type: none;
+    gap: 110px;
+    padding-top: 20px;
+    padding-bottom: 60px;
+    padding-left: 120px;
+}
+.list1{
+    cursor: pointer;
+}
+.list2{
+    cursor: pointer;
+}
+.list3{
+    cursor: pointer;
+}
+.list4{
+    cursor: pointer;
+}
+.list5{
+    cursor: pointer;
+}
+.list5 h6{
+    font-weight: bold;
+}
+.footerpart2 li{
+    padding-bottom: 2px;
+    font-size: 14px;
+}
+.footerpart3{
+    background-color: #002f34;
+    color: white;
+    height: 50px;
+    padding-top: 15px;
+    text-align: end;
+    padding-right: 120px;
+}
